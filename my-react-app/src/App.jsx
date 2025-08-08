@@ -16,11 +16,9 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>Sila Labs</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
+        <h2>Welcome to Sila Labs.</h2>>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
