@@ -18,14 +18,8 @@ function App() {
       </div>
       <h1>Sila Labs</h1>
       <div className="card">
-        <h2>Welcome to Sila Labs.</h2>>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
+        <h2>Welcome to Sila Labs.</h2>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
     </>
   )
 }
