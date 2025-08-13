@@ -8,7 +8,7 @@ export default function App() {
       <section className="min-h-screen bg-white flex flex-col justify-center items-center text-center px-6">
         <img src="/sila-logo.png" alt="Sila Labs Logo" className="w-40 mb-4" />
         <h1 className="text-4xl md:text-6xl font-bold mb-2">Sila Labs</h1>
-        <p className="text-lg italic text-gray-600 mb-6">Think small.</p>
+        <p className="text-lg italic text-gray-600 mb-6">Think Big. Build Small.</p>
         <p className="max-w-xl text-md md:text-lg">
           Developing technologies at the nanoscale, backed by quantum mechanics. Making Feynman's
           “swallowing the surgeon” dream a reality.

@@ -17,7 +17,7 @@ export default function App() {
           <div className="space-x-6 text-gray-700 hidden md:flex">
             <a href="#home" className="hover:text-green-600">Home</a>
             <a href="#what-we-do" className="hover:text-green-600">What We Do</a>
-            <a href="#current-tool" className="hover:text-green-600">Current Tool</a>
+            <a href="#current-tool" className="hover:text-green-600">Current Tools</a>
             <a href="#team" className="hover:text-green-600">Team</a>
             <a href="#contact" className="hover:text-green-600">Contact</a>
           </div>
@@ -34,8 +34,8 @@ export default function App() {
           alt="Sila Labs Logo"
           className="w-56 md:w-72 lg:w-96 object-contain mb-6"
         />
-        <p className="text-2xl md:text-4xl font-bold tracking-tight mb-2">Think Small.</p>
-        <p className="text-xl italic text-gray-600 mb-6">Hardware & software for the nanoscale</p>
+        <p className="text-2xl md:text-4xl font-bold tracking-tight mb-2">Dream Big. Build Small.</p>
+        <p className="text-xl italic text-gray-600 mb-6">Engineering quantum systems at the nanoscale</p>
         <p className="max-w-2xl text-lg md:text-xl leading-relaxed text-gray-700">
           We engineer quantum‑grounded nanoscale systems—integrating device design, simulation, and software—to
           enable the next generation of precision technology.
@@ -54,7 +54,7 @@ export default function App() {
 
       {/* Current Tool */}
       <section id="current-tool" className="bg-white py-24 px-6 text-center">
-        <h2 className="text-4xl font-semibold mb-6">Current Tool</h2>
+        <h2 className="text-4xl font-semibold mb-6">Current Tools</h2>
         <p className="max-w-2xl mx-auto text-lg md:text-xl leading-relaxed mb-8">
           Our first tool is a quantum transport simulation platform, designed to model conductance and visualize
           effects like disorder and magnetic fields in nanoscale systems.
