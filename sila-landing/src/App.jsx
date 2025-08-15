@@ -52,8 +52,8 @@ export default function App() {
       </section>
 
 
-      {/* Current Tool */}
-      <section id="current-tool" className="bg-white py-24 px-6 text-center">
+      {/* Current Tools */}
+      <section id="current-tools" className="bg-white py-24 px-6 text-center">
         <h2 className="text-4xl font-semibold mb-6">Current Tools</h2>
         <p className="max-w-2xl mx-auto text-lg md:text-xl leading-relaxed mb-8">
           Our first tool is a quantum transport simulation platform, designed to model conductance and visualize
